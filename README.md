@@ -1,6 +1,7 @@
 # HarmonyDB-Project
 ## Project Overview
-HarmonyDB is a comprehensive music database designed to store, organize, and analyze detailed information about bands, albums, concerts, and social media statistics. This project involves the creation of a relational database using SQL, data insertion with constraints, and extensive data visualization using Python libraries such as pandas, matplotlib, and seaborn.
+HarmonyDB is a comprehensive music database designed to store, organize, and analyze detailed information about bands, albums, concerts, and social media statistics.
+This project involves the creation of a relational database using SQL, data insertion with constraints, and extensive data visualization using Python libraries such as pandas, matplotlib, and seaborn.
 
 ## Key Features
 Database Creation: Designed and implemented a relational database schema tailored for the music industry.
