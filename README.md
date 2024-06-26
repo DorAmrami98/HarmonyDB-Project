@@ -12,6 +12,9 @@ Visualization: Created insightful visualizations using matplotlib and seaborn to
 
 ## Technologies Used
 SQL: For database creation, data insertion, and querying.
+
 pandas: For data manipulation and analysis.
+
 matplotlib: For creating static, interactive, and animated visualizations.
+
 seaborn: For statistical data visualization
